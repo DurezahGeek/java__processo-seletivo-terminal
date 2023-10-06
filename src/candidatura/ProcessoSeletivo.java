@@ -49,7 +49,7 @@ public class ProcessoSeletivo {
             System.out.println("Candidato " + candidato + " não foi encontrado em nenhuma posição.");
         }
         
-        System.out.println("Imprimindo a lista dos primeiros 5 candidatos selecionados:");
+        System.out.println("Imprimindo a lista dos 5 candidatos selecionados:");
         for (int indice = 0; indice < candidatos.length; indice++) {
             System.out.println("o candidato de nº " + (indice + 1) + " é o " + candidatos[indice]);
         }

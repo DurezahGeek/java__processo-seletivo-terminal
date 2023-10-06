@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Processo {
+public class ProcessoSeletivo {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
